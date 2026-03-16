@@ -131,7 +131,6 @@ Core workflow commands use `ce:` prefix to unambiguously identify them as compou
 
 | Skill | Description |
 |-------|-------------|
-| `brainstorming` | Explore requirements and approaches through collaborative dialogue |
 | `document-review` | Improve documents through structured self-review |
 | `every-style-editor` | Review copy for Every's style guide compliance |
 | `file-todos` | File-based todo tracking system |
